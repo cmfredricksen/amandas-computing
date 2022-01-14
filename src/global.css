@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat&display=swap');
+
+:root {
+	--color-dkOrange: #d62800;
+	--color-mdOrange: #ff6b56;
+	--color-white: #fff;
+	--color-ltPurple: #d462a6;
+	--color-dkPurple: #a40062;
+
+	--font-accent: 'VT323', monospace;
+	--font-heading: 'Audio Wide', monospace;
+	--font-text: 'Montserrat', sans-serif;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
