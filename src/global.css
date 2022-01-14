@@ -26,6 +26,9 @@ body {
 	flex-direction: column;
 	font-family: var(--font-text);
 	background-color: var(--color-dkPurple2);
+	background-image: url('/static/images/pexels-athena-2582932.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
 }
 
 h1 {

@@ -5,8 +5,11 @@
 <style>
 	footer {
 		text-align: center;
-		padding: 1rem 0;
+		padding: 2rem 0 3rem;
 		color: white;
 		font-weight: 600;
+		background: linear-gradient(transparent, rgba(0, 0, 0, 0.5));
+	}
+	p {
 	}
 </style>
