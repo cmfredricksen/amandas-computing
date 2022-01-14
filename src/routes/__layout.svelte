@@ -10,3 +10,12 @@
 </div>
 
 <Footer />
+
+<style>
+	.wrapper {
+		max-width: 900px;
+		margin: 0 auto;
+		background-color: var(--color-dkPurple);
+		color: var(--color-white);
+	}
+</style>

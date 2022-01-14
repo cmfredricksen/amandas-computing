@@ -7,6 +7,8 @@
 	--color-white: #fff;
 	--color-ltPurple: #d462a6;
 	--color-dkPurple: #a40062;
+	--color-dkPurple2: #4a1161;
+	--color-black: #000;
 
 	--font-accent: 'VT323', monospace;
 	--font-heading: 'Audio Wide', monospace;
@@ -23,6 +25,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	font-family: var(--font-text);
+	background-color: var(--color-dkPurple2);
 }
 
 h1 {
