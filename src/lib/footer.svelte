@@ -4,12 +4,10 @@
 
 <style>
 	footer {
-		text-align: center;
-		padding: 2rem 0 3rem;
+		padding: 2rem 0;
 		color: white;
 		font-weight: 600;
 		background: linear-gradient(transparent, rgba(0, 0, 0, 0.5));
-	}
-	p {
+		text-align: center;
 	}
 </style>
