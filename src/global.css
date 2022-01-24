@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat&display=swap');
+@import 'material-icons/iconfont/material-icons.css';
 
 :root {
 	--color-dkOrange: #d62800;
@@ -27,7 +28,7 @@ body {
 	flex-direction: column;
 	font-family: var(--font-text);
 	background-color: var(--color-dkPurple2);
-	background-image: url('/static/images/pexels-athena-2582932.jpg');
+	background-image: url('/static/images/mem-slots.jpg');
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
