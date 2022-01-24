@@ -1,0 +1,91 @@
+{
+  ".svelte-kit/build/app.js": {
+    "file": "app.js",
+    "src": ".svelte-kit/build/app.js",
+    "isEntry": true,
+    "imports": [
+      "_index-2dc61825.js"
+    ]
+  },
+  "src/routes/__layout.svelte": {
+    "file": "entries/pages/__layout.svelte.js",
+    "src": "src/routes/__layout.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2dc61825.js"
+    ],
+    "css": [
+      "assets/entries/pages/__layout.svelte-0299b7e2.css"
+    ],
+    "assets": [
+      "assets/material-icons-16a6b673.woff2",
+      "assets/material-icons-fd413633.woff",
+      "assets/material-icons-outlined-a74248b4.woff2",
+      "assets/material-icons-outlined-9908f40e.woff",
+      "assets/material-icons-round-2a85ef8b.woff2",
+      "assets/material-icons-round-973e070d.woff",
+      "assets/material-icons-sharp-2aad60cb.woff2",
+      "assets/material-icons-sharp-a20bab83.woff",
+      "assets/material-icons-two-tone-416944a8.woff2",
+      "assets/material-icons-two-tone-d3a23408.woff",
+      "assets/mem-slots-54d332e1.jpg"
+    ]
+  },
+  ".svelte-kit/runtime/components/error.svelte": {
+    "file": "entries/pages/error.svelte.js",
+    "src": ".svelte-kit/runtime/components/error.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2dc61825.js"
+    ]
+  },
+  "src/routes/index.svelte": {
+    "file": "entries/pages/index.svelte.js",
+    "src": "src/routes/index.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2dc61825.js"
+    ]
+  },
+  "src/routes/services.svelte": {
+    "file": "entries/pages/services.svelte.js",
+    "src": "src/routes/services.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2dc61825.js"
+    ]
+  },
+  "src/routes/contact.svelte": {
+    "file": "entries/pages/contact.svelte.js",
+    "src": "src/routes/contact.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2dc61825.js"
+    ]
+  },
+  "src/routes/thanks.svelte": {
+    "file": "entries/pages/thanks.svelte.js",
+    "src": "src/routes/thanks.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2dc61825.js"
+    ],
+    "css": [
+      "assets/entries/pages/thanks.svelte-976ec1a7.css"
+    ]
+  },
+  "src/routes/about.svelte": {
+    "file": "entries/pages/about.svelte.js",
+    "src": "src/routes/about.svelte",
+    "isEntry": true,
+    "imports": [
+      "_index-2dc61825.js"
+    ],
+    "css": [
+      "assets/entries/pages/about.svelte-8c5ca05f.css"
+    ]
+  },
+  "_index-2dc61825.js": {
+    "file": "chunks/index-2dc61825.js"
+  }
+}
