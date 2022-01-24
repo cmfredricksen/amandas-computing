@@ -1,3 +1,6 @@
+<svelte:head>
+	<title>Thank you! | Gaylord Computing</title>
+</svelte:head>
 <div class="thank-you">
 	<h1>Your form has been submitted</h1>
 

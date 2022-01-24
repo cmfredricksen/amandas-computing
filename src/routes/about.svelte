@@ -1,3 +1,6 @@
+<svelte:head>
+	<title>Gaylord Computing | About</title>
+</svelte:head>
 <div class="about">
 	<h1>ABout Us</h1>
 
