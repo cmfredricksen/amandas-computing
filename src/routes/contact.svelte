@@ -4,7 +4,7 @@
 	<form action="https://formsubmit.co/chris@cmfred.com" method="POST">
 		<input type="text" name="name" placeholder="Name" required />
 		<input type="email" name="email" placeholder="Email" required />
-		<!-- <input type="hidden" name="_next" value="localhost:3000/thanks" /> -->
+		<input type="hidden" name="_next" value="https://eloquent-pike-c24d4b.netlify.app/thanks" />
 		<!-- <input type="textarea" name="message" placeholder="Message" /> -->
 		<textarea name="message" id="message" cols="30" rows="10" placeholder="message" />
 		<input type="hidden" name="_subject" value="Amanda" />
