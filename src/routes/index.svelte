@@ -1,5 +1,6 @@
 <script>
 	import Card from '$lib/components/card.svelte';
+	import Btn from '$lib/components/button.svelte';
 
 	const cardContent = [
 		{
@@ -55,8 +56,8 @@
 		rig that is high performance, or a work pc set up for your unique needs.
 	</p>
 	<div class="btn-box">
-		<a class="btn" href="/services">Services</a>
-		<a class="btn" href="/contact">Contact Me</a>
+		<Btn link="/services" text="Services" />
+		<Btn link="/contact" text="Contact Me" />
 	</div>
 </div>
 
@@ -80,18 +81,8 @@
 	}
 	.btn-box {
 		text-align: center;
-	}
-	.btn {
-		text-decoration: none;
-		background-color: var(--color-mdOrange);
-		padding: 0.5rem 1rem;
-		border-radius: 0.5rem;
-		margin: 0 1rem;
-		border: 2px solid var(--color-dkOrange);
-		color: var(--color-dkPurple2);
-		font-weight: bold;
-	}
-	.btn:hover {
-		color: white;
+		display: flex;
+		justify-content: center;
+		margin: 2rem 0 1rem;
 	}
 </style>

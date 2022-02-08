@@ -30,7 +30,6 @@
 	.card {
 		display: flex;
 		flex-direction: column;
-		/* max-width: 30%; */
 		padding: 1rem 2rem;
 		background-color: var(--color-dkPurple3);
 		height: 100%;
