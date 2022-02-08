@@ -1,5 +1,6 @@
 <script>
 	import Card from '$lib/components/card.svelte';
+	import Btn from '$lib/components/button.svelte';
 	const services = [
 		{
 			title: 'Upgrades',
@@ -44,6 +45,9 @@
 				listc={service.listc}
 			/>
 		</div>
+		<div class="btn-box">
+			<Btn link="/contact" text="Contact Me" />
+		</div>
 	{/each}
 </div>
 
@@ -57,10 +61,14 @@
 		border-right: 3px solid var(--color-mdOrange);
 		border-left: 3px solid var(--color-mdOrange);
 		border-bottom: 3px solid var(--color-mdOrange);
+		padding-bottom: 2rem;
 	}
 	.card {
 		border: 2px solid white;
 		margin: 1rem 2rem;
 		outline: 2px solid var(--color-mdOrange);
+	}
+	.btn-box {
+		text-align: center;
 	}
 </style>
