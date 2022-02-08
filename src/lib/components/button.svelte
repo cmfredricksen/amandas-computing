@@ -4,7 +4,9 @@
 </script>
 
 <div class="btn">
-	<a href={link}>{text}</a>
+	{#if (link, text)}
+		<a href={link}> {text}</a>
+	{/if}
 </div>
 
 <style>
