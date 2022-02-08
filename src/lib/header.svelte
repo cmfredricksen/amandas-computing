@@ -15,6 +15,8 @@
 		justify-content: space-between;
 		padding: 1rem;
 		background-color: var(--color-ltPurple);
+
+		border-bottom: 3px solid var(--color-mdOrange);
 	}
 	h1 {
 		/* text-shadow: 0 3px 3px var(--color-black); */

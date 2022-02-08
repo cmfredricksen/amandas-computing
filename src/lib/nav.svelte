@@ -1,12 +1,20 @@
 <script>
+	import { page } from '$app/stores';
+
 	let firtstName = 'Amanda';
+
+	const nav = [
+		{ title: 'Home', path: '/' },
+		{ title: 'Services', path: '/services' },
+		{ title: 'About', path: '/about' },
+		{ title: 'Contact', path: '/contact' }
+	];
 </script>
 
 <nav>
-	<a href="/">Home</a>
-	<a href="/services">Services</a>
-	<a href="/about">About</a>
-	<a href="/contact">Contact</a>
+	{#each nav as item}
+		<a class:active={$page.url.pathname === item.path} href={item.path}>{item.title}</a>
+	{/each}
 </nav>
 
 <style>
@@ -23,7 +31,13 @@
 
 	a:hover {
 		/* text-decoration: underline; */
-		color: var(--color-ltPurple);
+		/* color: var(--color-ltPurple); */
+		color: var(--color-mdOrange);
 		font-weight: 600;
+	}
+
+	.active {
+		/* color: var(--color-ltPurple); */
+		font-weight: bold;
 	}
 </style>

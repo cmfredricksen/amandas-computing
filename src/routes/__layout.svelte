@@ -13,7 +13,7 @@
 
 <style>
 	.wrapper {
-		max-width: 900px;
+		max-width: 1100px;
 		margin: 0 auto;
 		background-color: var(--color-dkPurple3);
 		color: var(--color-white);
