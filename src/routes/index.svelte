@@ -17,7 +17,7 @@
 			lista: 'Gaming',
 			listb: 'Business',
 			listc: 'Home PC',
-			text: 'I can build you a brand new system that meeds your unique computing needs!'
+			text: 'I can build you a brand new system that meets your unique computing needs!'
 		},
 		{
 			title: 'Consultation',
