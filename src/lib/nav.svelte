@@ -24,20 +24,16 @@
 		color: white;
 		margin-left: 0.5rem;
 		padding: 0.5rem 1rem;
-		/* outline: 2px solid white; */
 		background-color: var(--color-dkPurple2);
 		border-radius: 1rem;
 	}
 
 	a:hover {
-		/* text-decoration: underline; */
-		/* color: var(--color-ltPurple); */
 		color: var(--color-mdOrange);
 		font-weight: 600;
 	}
 
 	.active {
-		/* color: var(--color-ltPurple); */
 		font-weight: bold;
 	}
 

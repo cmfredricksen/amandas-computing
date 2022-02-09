@@ -19,7 +19,6 @@
 
 <style>
 	.contact-form {
-		/* width: 80%; */
 		margin: 0 auto;
 		padding: 1rem 0 2rem;
 	}
@@ -61,21 +60,6 @@
 		line-height: 2;
 	}
 
-	/* button {
-		width: 100px;
-		line-height: 2;
-		color: var(--color-white);
-		background-color: var(--color-dkPurple2);
-		margin: 0.5rem auto;
-		border-radius: 0.25rem;
-		border: 2px solid var(--color-white);
-		font-family: var(--font-heading);
-	}
-
-	button:hover {
-		color: var(--color-ltPurple);
-	} */
-
 	button {
 		text-decoration: none;
 		background-color: var(--color-mdOrange);
@@ -86,7 +70,6 @@
 		color: var(--color-dkPurple2);
 		font-weight: bold;
 		width: 100px;
-		/* line-height: 1.5; */
 		font-family: var(--font-text);
 		font-size: 1.25rem;
 	}
@@ -96,7 +79,7 @@
 	@media (max-width: 968px) {
 		.form {
 			width: 90%;
-			padding: 1rem 0.5rem;
+			padding: 1rem;
 		}
 	}
 </style>

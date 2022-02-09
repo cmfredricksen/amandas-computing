@@ -7,7 +7,6 @@
 		padding: 2rem 0;
 		color: white;
 		font-weight: 600;
-		/* background: linear-gradient(transparent, rgba(0, 0, 0, 0.5)); */
 		background: rgba(0, 0, 0, 0.8);
 		text-align: center;
 		border-top: 4px solid var(--color-ltPurple);
