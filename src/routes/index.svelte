@@ -85,4 +85,15 @@
 		justify-content: center;
 		margin: 2rem 0 1rem;
 	}
+	@media (max-width: 968px) {
+		.main {
+			grid-template-columns: 1fr;
+		}
+		.section:nth-child(even) {
+			border-top: 2px dashed white;
+			border-bottom: 2px dashed white;
+			border-right: none;
+			border-left: none;
+		}
+	}
 </style>
