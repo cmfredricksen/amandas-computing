@@ -8,7 +8,7 @@
 		<input type="text" name="name" required />
 		<label for="email">Email:</label>
 		<input type="email" name="email" required />
-		<input type="hidden" name="_next" value="https://eloquent-pike-c24d4b.netlify.app/thanks" />
+		<input type="hidden" name="_next" value="https://gaylord-computing.netlify.app/thanks" />
 		<label for="message">Message:</label>
 		<textarea name="message" id="message" cols="30" rows="10" />
 		<input type="hidden" name="_subject" value="Amanda" />
@@ -61,7 +61,7 @@
 		line-height: 2;
 	}
 
-	button {
+	/* button {
 		width: 100px;
 		line-height: 2;
 		color: var(--color-white);
@@ -74,5 +74,23 @@
 
 	button:hover {
 		color: var(--color-ltPurple);
+	} */
+
+	button {
+		text-decoration: none;
+		background-color: var(--color-mdOrange);
+		padding: 0.5rem 1rem;
+		border-radius: 0.5rem;
+		margin: 2rem auto;
+		border: 2px solid var(--color-dkOrange);
+		color: var(--color-dkPurple2);
+		font-weight: bold;
+		width: 100px;
+		/* line-height: 1.5; */
+		font-family: var(--font-text);
+		font-size: 1.25rem;
+	}
+	button:hover {
+		color: white;
 	}
 </style>
