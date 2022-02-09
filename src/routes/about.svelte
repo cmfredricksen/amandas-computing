@@ -8,7 +8,7 @@
 <div class="about">
 	<h1>About Me</h1>
 	<div class="section-1">
-		<img src="../static/images/gamer.jpg" alt="gamer accessories" class="img-about" />
+		<img src="/images/gamer.jpg" alt="gamer accessories" class="img-about" />
 
 		<div class="text-box">
 			<p>
@@ -34,8 +34,8 @@
 	</div>
 
 	<div class="img-box">
-		<img src="../static/images/yoshi.jpg" alt="Yoshi" />
-		<img src="/static/images/mboard.jpg" alt="Motherboard" />
+		<img src="/images/yoshi.jpg" alt="Yoshi" />
+		<img src="/images/mboard.jpg" alt="Motherboard" />
 	</div>
 
 	<p>
