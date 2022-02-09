@@ -126,4 +126,33 @@
 	h1 {
 		margin: 1rem 2rem;
 	}
+
+	@media (max-width: 968px) {
+		h1 {
+			text-align: center;
+		}
+		.section-1 {
+			flex-direction: column;
+		}
+		.img-about {
+			width: 100%;
+		}
+		.info-box {
+			width: 100%;
+			text-align: center;
+		}
+		.img-box {
+			flex-direction: column;
+			width: 100vw;
+			margin: 0;
+			padding: 0;
+		}
+		.img-box img {
+			margin-bottom: 1rem;
+			height: auto;
+		}
+		p {
+			font-size: 1.25rem;
+		}
+	}
 </style>

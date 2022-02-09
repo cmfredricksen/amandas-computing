@@ -40,4 +40,10 @@
 		/* color: var(--color-ltPurple); */
 		font-weight: bold;
 	}
+
+	@media (max-width: 968px) {
+		a {
+			border-radius: 0;
+		}
+	}
 </style>

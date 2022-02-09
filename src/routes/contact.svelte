@@ -93,4 +93,10 @@
 	button:hover {
 		color: white;
 	}
+	@media (max-width: 968px) {
+		.form {
+			width: 90%;
+			padding: 1rem 0.5rem;
+		}
+	}
 </style>

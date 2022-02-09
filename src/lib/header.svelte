@@ -45,4 +45,16 @@
 	a {
 		text-decoration: none;
 	}
+
+	@media (max-width: 968px) {
+		header {
+			flex-direction: column;
+			padding: 1rem 0 2rem;
+		}
+		.title {
+			margin: 0.75rem 0;
+			text-align: center;
+			margin-bottom: 2rem;
+		}
+	}
 </style>

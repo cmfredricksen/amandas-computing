@@ -19,4 +19,9 @@
 	a:hover {
 		color: var(--color-dkOrange);
 	}
+	@media (max-width: 968px) {
+		footer {
+			padding: 3rem;
+		}
+	}
 </style>
