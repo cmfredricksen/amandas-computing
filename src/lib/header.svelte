@@ -7,7 +7,7 @@
 		<h1 class="logo">&#9884;</h1>
 	</a>
 	<a href="/">
-		<h1 class="title">Gaylord Custom Computing</h1>
+		<h1 class="title">Amanda's Custom Computing</h1>
 	</a>
 	<Nav />
 </header>

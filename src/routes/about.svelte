@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Gaylord Computing | About</title>
+	<title>Amanda's Computing | About</title>
 </svelte:head>
 <div class="about">
 	<h1>About Me</h1>

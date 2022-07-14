@@ -1,5 +1,5 @@
 <footer>
-	<p>© 2022 <a href="/"> Gaylord Custom Computing</a> &bull; All Rights Reserved &#9884;</p>
+	<p>© 2022 <a href="/"> Amanda's Custom Computing</a> &bull; All Rights Reserved &#9884;</p>
 </footer>
 
 <style>

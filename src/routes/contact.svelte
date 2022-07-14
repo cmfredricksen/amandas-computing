@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Gaylord Computing | Contact</title>
+	<title>Amanda's Computing | Contact</title>
 </svelte:head>
 <div class="contact-form">
 	<h1>Contact Me:</h1>
