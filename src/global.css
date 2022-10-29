@@ -28,7 +28,7 @@ body {
 	flex-direction: column;
 	font-family: var(--font-text);
 	background-color: var(--color-dkPurple2);
-	background-image: url('/static/images/mem-slots.jpg');
+	background-image: url('/images/mem-slots.jpg');
 	background-repeat: repeat-y;
 	background-size: 100%;
 }
